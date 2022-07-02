@@ -39,17 +39,12 @@ The purpose of this project is to collect and analyze weather data across cities
     ![Latitude_Max Temp PopupMarker Heatmap](https://user-images.githubusercontent.com/105877888/177011134-006cdcfd-2abc-4e37-8561-2eafd7884ccd.PNG)
 
     ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/105877888/177010589-0ebc22aa-22fd-4c6c-be76-7951d521468b.PNG)
+    
   - City Travel Map
     ![WeatherPy_travel_map_enlarged](https://user-images.githubusercontent.com/105877888/177010724-eb0fd861-ed7f-4daa-a54b-277d12784585.png)
 
     ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/105877888/177010690-8975bffe-db92-43ef-858a-2ca1ad37c42a.png)
-
-
-  
- 
-
-
-
-
-
 ## Summary
+  - Using realtime layered heatmap, users can easily plan their their trip according to the weather across the world. 
+  - Taking input of client's weather preferences, PlanMyTrip may also give recommendations of ideal hotels in target city.
+  - For designated cities, PlanMyTrip is able to provide appropriate travel route for their clients by.
