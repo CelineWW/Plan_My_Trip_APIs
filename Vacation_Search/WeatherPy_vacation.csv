@@ -13,7 +13,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 43,Georgetown,MY,85.95,few clouds,5.4112,100.3354,Cititel Penang
 48,San Cristobal,VE,78.98,scattered clouds,7.7669,-72.225,Pirineos
 54,Wanparti,IN,78.73,overcast clouds,16.3667,78.0667,Vasanth
-62,Koulikoro,ML,85.8,overcast clouds,14.0,-7.75,
 65,Dingle,PH,77.65,overcast clouds,10.9995,122.6711,SEGAYA PROPERTY
 67,Ormond Beach,US,84.02,broken clouds,29.2858,-81.0559,Makai Beach Lodge
 68,Murgab,TM,82.27,clear sky,37.4966,61.9714,Wepa Nurlyýew
@@ -29,7 +28,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 96,Gilgit,PK,85.93,clear sky,35.9221,74.3087,Tourist Hamlet Gilgit
 98,Nantucket,US,76.01,clear sky,41.2835,-70.0995,Jared Coffin House
 104,Kutum,SD,79.29,overcast clouds,14.2,24.6667,Dibbo areaمنطقة دبو
-106,Sao Paulo De Olivenca,BR,80.35,overcast clouds,-3.3783,-68.8725,
 110,Mabaruma,GY,76.06,broken clouds,8.2,-59.7833,Monty Brooms Guest House
 119,Cayenne,GF,82.44,clear sky,4.9333,-52.3333,Hôtel Le Dronmi
 125,Sao Miguel Do Araguaia,BR,78.22,clear sky,-13.275,-50.1628,Hotel Executivo Palace
@@ -42,7 +40,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 140,Nuqui,CO,80.69,light rain,5.7125,-77.2708,Hotel Nuquimar
 142,Sakakah,SA,89.17,clear sky,29.9697,40.2064,Fakhamat Al Orjoana Apartment
 146,Cockburn Town,TC,85.96,scattered clouds,21.4612,-71.1419,Osprey Beach Hotel
-148,Morros,BR,78.26,clear sky,-9.4467,-46.3003,
 149,Filadelfia,US,89.85,broken clouds,39.9523,-75.1638,"The Ritz-Carlton, Philadelphia"
 152,Srikakulam,IN,80.13,overcast clouds,18.3,83.9,Micro Systems
 154,Oranjestad,AW,84.15,scattered clouds,12.524,-70.027,Divi Village Golf & Beach Resort
@@ -117,9 +114,8 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 354,Sinnamary,GF,78.73,overcast clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
 356,Galle,LK,80.91,scattered clouds,6.0367,80.217,Amangalla
 362,Meybod,IR,89.62,clear sky,32.2501,54.0166,Traditional Hotel Restaurant Haji Malek
-372,San Pedro,PH,79.83,broken clouds,14.35,121.0167,Esquivel's Garden And Resort
+372,San Pedro,PH,79.83,broken clouds,14.35,121.0167,Palines Apartment and Guesthouse
 373,San Antero,CO,81.66,overcast clouds,9.3741,-75.7589,Villamarina Inn chale
-377,Thinadhoo,MV,79.38,light rain,0.5333,72.9333,
 386,Upata,VE,78.19,broken clouds,8.0086,-62.3989,Posada Villa Nela
 388,Suez,EG,76.42,clear sky,29.9737,32.5263,Green House
 391,Barra Do Garcas,BR,82.98,clear sky,-15.89,-52.2567,Pousada Tropical
@@ -139,12 +135,10 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 435,Skeldon,GY,76.93,scattered clouds,5.8833,-57.1333,Classic International Hotel & Suites
 437,Siparia,TT,78.82,overcast clouds,10.1333,-61.5,Brook Gardens
 445,Mapiripan,CO,78.55,broken clouds,2.8892,-72.1256,Monserrate
-446,Kaka,TM,88.59,clear sky,37.3482,59.6143,
 448,Balkanabat,TM,81.36,clear sky,39.5108,54.3671,Nebitchi Hotel
 452,Weligama,LK,80.46,few clouds,5.9667,80.4167,Weligama Bay Resort
 453,Washington,US,87.78,clear sky,47.5001,-120.5015,"Cashmere Cider Mill Guest Suites, Weddings & Tasting Room"
 455,Aquiraz,BR,81.18,clear sky,-3.9014,-38.3911,Pousada Rua Camurupim
-456,Kyabe,TD,79.66,overcast clouds,9.4515,18.9449,
 459,Santa Cruz,BO,80.65,scattered clouds,-17.8,-63.1667,Aviador Hotel Boutique
 464,Port Blair,IN,82.44,mist,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
 466,Follonica,IT,78.01,clear sky,42.9263,10.7616,Hotel Parrini
@@ -160,15 +154,12 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 490,Panorama,GR,78.33,few clouds,40.5878,23.0315,Panorama Hotel
 492,Cotonou,BJ,80.58,scattered clouds,6.3654,2.4183,Novotel Cotonou Orisha
 494,Ugoofaaru,MV,82.89,few clouds,5.6667,73.0,Ungoofaaru Inn
-496,Guisa,CU,80.85,overcast clouds,20.255,-76.5386,
-499,Urrutia,HN,85.21,overcast clouds,14.7427,-87.0422,
 500,Puri,IN,81.12,heavy intensity rain,19.8,85.85,OYO 1577 Hotel Shree Hari Grand
 502,Catia La Mar,VE,80.08,scattered clouds,10.6038,-67.0303,HOTEL PLAYA GRANDE CARIBE
 504,Kaya,BF,88.36,scattered clouds,13.0917,-1.0844,Maison de l'appelé
 505,Mana,GF,78.93,scattered clouds,5.6592,-53.7767,LE SAMANA
 506,Guasdualito,VE,84.2,broken clouds,7.2424,-70.7324,Hotel Cuibas
 512,Girne,CY,78.35,clear sky,35.3417,33.3167,Lavanta Residence
-516,Mayor Pablo Lagerenza,PY,86.02,clear sky,-19.9309,-60.7718,
 522,Umm Lajj,SA,84.76,clear sky,25.0213,37.2685,Moon light Furnished Units
 525,Rusera,IN,84.2,moderate rain,25.75,86.0333,Santosh Hotel&Santosh resturent
 527,Kashi,CN,85.21,few clouds,39.4547,75.9797,帕米尔青年旅舍
@@ -190,7 +181,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 576,Puerto Ayacucho,VE,80.24,overcast clouds,5.6639,-67.6236,Posada Turistica Manapiare
 577,Andros,GR,81.16,clear sky,37.8333,24.9333,Micra Anglia Hotel - Andros
 578,Lincoln,US,86.14,clear sky,40.8,-96.667,Courtyard by Marriott Lincoln Downtown/Haymarket
-579,Jurado,CO,79.86,light rain,7.1053,-77.7641,
 580,Saint-Georges,GD,82.08,scattered clouds,12.0564,-61.7485,Radisson Grenada Beach Resort
 585,Puerto Ayora,EC,78.76,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
 586,Telhara,IN,78.6,overcast clouds,21.0269,76.8389,Sarodes home
@@ -204,13 +194,11 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 609,Matara,LK,80.38,few clouds,5.9485,80.5353,Amaloh Boutique Resort
 610,Mbuji-Mayi,CD,79.23,broken clouds,-6.15,23.6,HOTEL METROPOLE DU KASAI
 612,Alvaraes,BR,80.47,scattered clouds,-3.2208,-64.8042,Av. Castelo Branco. Ginásio Ermelino vieira.
-613,Gayeri,BF,86.76,broken clouds,12.6497,0.4931,
 615,Malakal,SS,77.38,scattered clouds,9.5334,31.6605,Nile Palace Hotel
 618,Panagar,IN,79.63,moderate rain,23.3,79.9833,Paras Hotel pure veg
 620,Vadakku Valliyur,IN,81.5,overcast clouds,8.3833,77.65,AR
 626,Natal,BR,82.62,few clouds,-5.795,-35.2094,Villa Park Hotel | Natal
 628,Ashtian,IR,77.0,clear sky,34.5217,50.0019,Jamiatul Mustafa Al Aalamia Ashtiyan
-631,Adre,TD,77.86,overcast clouds,13.4667,22.2,
 638,Banfora,BF,77.63,light rain,10.6333,-4.7667,Residences David Hebié
 639,Pafos,CY,76.78,few clouds,34.7667,32.4167,Elysium Hotel
 644,Iracoubo,GF,78.6,broken clouds,5.4802,-53.2011,Le Gîte d’Iracoubo
