@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# Plan My Trip APIs
 ## Overview
 The purpose of this project is to collect and analyze weather data across cities worldwide, so that PlanMyTrip could use the data to recommend ideal hotels based on clients' weather preferences.
   - Weather Scattor Plots and Heatmap
